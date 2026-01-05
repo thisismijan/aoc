@@ -1,0 +1,1 @@
+/Users/mijan/code/adventofcode/day02_2025/target/debug/day02_2025: /Users/mijan/code/adventofcode/aoclib/src/lib/parser.rs /Users/mijan/code/adventofcode/aoclib/src/lib.rs /Users/mijan/code/adventofcode/day02_2025/src/main.rs
